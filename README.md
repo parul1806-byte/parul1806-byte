@@ -1,71 +1,68 @@
+<h1 align="center">Hi there, I'm Parul 👋</h1>
 
-<h1 align="center">Hi 👋, I'm Parul Pal</h1>
+> ✨ *"Battles with tough problems forge the strongest developers."*
 
-<p align="center">
-Aspiring <strong>Data Scientist</strong> | Python Developer | SQL Enthusiast  
-</p>
+Aspiring Data Scientist | Python Enthusiast | Lifelong Learner  
+Currently mastering **Data Science**, **ML**, and **Python OOP**  
+Passionate about solving real-world problems & growing through open-source 🚀
 
 ---
 
-### 🧠 About Me
-- 🎓 Learning Data Science and Machine Learning
-- 💡 Strong in Python (OOPs, DSA), SQL, and PostgreSQL
-- 💻 Building projects using Tkinter, CLI, and Power BI
-- 📈 Exploring Tableau, Power BI, and Pandas for data visualization
-- 👀 Actively seeking **internships** and **freelance opportunities**
+### 🧭 My Journey: From Beginner to Builder
+
+- 🧵 Started with `'Hello World'`, now building full-featured apps
+- 📘 Exploring: `Machine Learning`, `SQL`, `Git`, `EDA`, `Python OOP`
+- 🛠️ Building: CLI & GUI projects using `Tkinter`, `Pandas`, `OOP`
+- 📊 Visualizing: Data using `Power BI`, `Tableau`, `Matplotlib`
+- 💼 Looking for: **Internships** | **Freelance Projects** | **Tech Collaborations**
 
 ---
 
 ### 🧰 Tech Stack
-**Languages**: `Python`, `SQL` 
-**Tools**: `Git`, `GitHub`, `PostgreSQL`, `Excel`, `Power BI`, `Tableau`  
-**Libraries**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Tkinter`  
-**Concepts**: `OOP`, `DSA`, `EDA`, `CRUD`, `Dashboards`, `ML Basics`
+
+**Languages:** `Python`, `SQL`  
+**Tools:** `Git`, `GitHub`, `Excel`, `PostgreSQL`, `Power BI`, `Tableau`  
+**Libraries:** `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Tkinter`  
+**Concepts:** `OOP`, `DSA`, `EDA`, `CRUD`, `Dashboards`, `ML Basics`
 
 ---
 
-### 📌 Pinned Projects
+### 🚀 Top Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🎓 Student Result System](https://github.com/parul1806-byte/student-result-management-system) | CLI app to manage student records and grades | Python, OOP |
-| [🔁 OOPs in Python](https://github.com/parul1806-byte/oops-in-python) | Examples of classes, objects, inheritance, etc. | Python |
-| [🧩 10 Mini OOP Projects](https://github.com/parul1806-byte/10_oops_mini_projects) | Real-world OOP projects for practice | Python |
-| [🖼️ Tkinter GUI Projects](https://github.com/parul1806-byte/Tkinter_GUI_projects) | Graphical apps using Tkinter | Python, Tkinter |
-| [📚 DSA Handbook](https://github.com/parul1806-byte/Array-dsa-handbook) | 100+ array-based DSA problems with code | Python |
-| [🗃️ PostgreSQL Learning Journey](https://github.com/parul1806-byte/postgresql-learning-journey) | SQL practice using pgAdmin | PostgreSQL, SQL |
+| ⭐ Project | Description | Tools Used |
+|----------|-------------|------------|
+| 🎓 [Student Result System](https://github.com/parul1806-byte/Student-Result-System) | CLI app for managing results | Python, OOP |
+| 🧠 [10 Mini OOP Projects](https://github.com/parul1806-byte/10-Mini-OOP-Projects) | Real-world OOP practice | Python |
+| 🖼️ [Tkinter GUI Projects](https://github.com/parul1806-byte/Tkinter-GUI-Projects) | GUI apps using Tkinter | Python, Tkinter |
+| 📘 [OOPs in Python](https://github.com/parul1806-byte/OOPs-in-Python) | Concepts: Inheritance, Classes | Python |
+| 🧩 [DSA Handbook](https://github.com/parul1806-byte/DSA-Handbook) | 100+ problems with code | Python, DSA |
 
 ---
 
-### 🧮 GitHub Stats
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parul1806-byte&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parul1806-byte&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parul1806-byte&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=parul1806-byte&show_icons=true&theme=gruvbox&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parul1806-byte&theme=gruvbox" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parul1806-byte&layout=compact&theme=gruvbox" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parul1806-byte&theme=gruvbox" width="96%"/>
 </p>
 
 ---
 
-### 📫 Connect with Me
+### 🔗 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/parul-pal-145ba1306/)
-- 💌 Email: parulpal7088@gmail.com
-- 🧠 [LeetCode](https://leetcode.com/u/parulpal/)
-
----
-
-### 🔍 Resume + Portfolio
-
-📄 You can also explore my work in detail on my [GitHub Projects](https://github.com/parul1806-byte?tab=repositories) or request a **custom resume PDF** by contacting me directly.
-
-🧠 I’m building my Data Science resume project portfolio — feel free to check back for:
-
-- ✅ Data Cleaning & EDA Projects
-- ✅ SQL + Dashboard Case Studies
-- ✅ Streamlit App Deployments
-- ✅ Machine Learning Capstones
+- 🌍 Location: Delhi, India  
+- 📧 Email: parulpal7088@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/parul-pal-145ba1306/)  
+- 🧠 [LeetCode](https://leetcode.com/u/parulpal/)  
+- 💻 [GitHub](https://github.com/parul1806-byte)
 
 ---
 
-_"From printing Hello World to solving real-world problems — this is my journey."_ 🚀
+_🌱 "From printing 'Hello World' to solving real-world problems — this is my journey."_
+
+> 🪄 *Let’s build, learn, and inspire together!*
