@@ -17,7 +17,7 @@ Aspiring <strong>Data Scientist</strong> | Python Developer | SQL Enthusiast
 ---
 
 ### 🧰 Tech Stack
-**Languages**: `Python`, `SQL`, `C++`  
+**Languages**: `Python`, `SQL` 
 **Tools**: `Git`, `GitHub`, `PostgreSQL`, `Excel`, `Power BI`, `Tableau`  
 **Libraries**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Tkinter`  
 **Concepts**: `OOP`, `DSA`, `EDA`, `CRUD`, `Dashboards`, `ML Basics`
