@@ -1,16 +1,13 @@
-<h1 align="center">Hi there, I'm Parul 👋</h1>
+<h1 align="center">Hi 👋, I'm Parul Pal</h1>
 
-> ✨ *"Battles with tough problems forge the strongest developers."*
-
-Aspiring Data Scientist | Python Enthusiast | Lifelong Learner  
-Currently mastering **Data Science**, **ML**, and **Python OOP**  
-Passionate about solving real-world problems & growing through open-source 🚀
+<p align="center">
+Aspiring <strong>Data Scientist</strong> | Python Developer | SQL Enthusiast  
+</p>
 
 ---
 
 ### 🧭 My Journey: From Beginner to Builder
 
-- 🧵 Started with `'Hello World'`, now building full-featured apps
 - 📘 Exploring: `Machine Learning`, `SQL`, `Git`, `EDA`, `Python OOP`
 - 🛠️ Building: CLI & GUI projects using `Tkinter`, `Pandas`, `OOP`
 - 📊 Visualizing: Data using `Power BI`, `Tableau`, `Matplotlib`
@@ -39,30 +36,37 @@ Passionate about solving real-world problems & growing through open-source 🚀
 
 ---
 
-### 📊 GitHub Insights
+### 🧮 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parul1806-byte&show_icons=true&theme=gruvbox&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parul1806-byte&theme=gruvbox" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parul1806-byte&layout=compact&theme=gruvbox" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parul1806-byte&theme=gruvbox" width="96%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=parul1806-byte&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parul1806-byte&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parul1806-byte&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 🔗 Connect with Me
+### 📫 Connect with Me
 
-- 🌍 Location: Delhi, India  
-- 📧 Email: parulpal7088@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/parul-pal-145ba1306/)  
-- 🧠 [LeetCode](https://leetcode.com/u/parulpal/)  
-- 💻 [GitHub](https://github.com/parul1806-byte)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/parul-pal-145ba1306/)
+- 💌 Email: parulpal7088@gmail.com
+- 🧠 [LeetCode](https://leetcode.com/u/parulpal/)
 
 ---
 
-_🌱 "From printing 'Hello World' to solving real-world problems — this is my journey."_
+### 🔍 Resume + Portfolio
 
-> 🪄 *Let’s build, learn, and inspire together!*
+📄 You can also explore my work in detail on my [GitHub Projects](https://github.com/parul1806-byte?tab=repositories) or request a **custom resume PDF** by contacting me directly.
+
+🧠 I’m building my Data Science resume project portfolio — feel free to check back for:
+
+- ✅ Data Cleaning & EDA Projects
+- ✅ SQL + Dashboard Case Studies
+- ✅ Streamlit App Deployments
+- ✅ Machine Learning Capstones
+
+---
+
+_“Consistency is the key to mastery — one project at a time.”_ 🚀
+
+
