@@ -68,4 +68,4 @@ Aspiring <strong>Data Scientist</strong> | Python Developer | SQL Enthusiast
 
 ---
 
-_“Consistency is the key to mastery — one project at a time.”_ 🚀
+_"From printing Hello World to solving real-world problems — this is my journey."_ 🚀
