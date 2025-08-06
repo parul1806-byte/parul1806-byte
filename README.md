@@ -4,6 +4,10 @@
 Aspiring <strong>Data Scientist</strong> | Python Developer | SQL Enthusiast  
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parul1806-byte&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ### 🧭 My Journey: From Beginner to Builder
@@ -39,9 +43,12 @@ Aspiring <strong>Data Scientist</strong> | Python Developer | SQL Enthusiast
 ### 🧮 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parul1806-byte&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parul1806-byte&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parul1806-byte&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=parul1806-byte&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parul1806-byte&theme=tokyonight" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parul1806-byte&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -54,15 +61,15 @@ Aspiring <strong>Data Scientist</strong> | Python Developer | SQL Enthusiast
 
 ---
 
-### 🔍 Resume + Portfolio
+### 📄 Resume + Portfolio
 
 📄 You can also explore my work in detail on my [GitHub Projects](https://github.com/parul1806-byte?tab=repositories) or request a **custom resume PDF** by contacting me directly.
 
 🧠 I’m building my Data Science resume project portfolio — feel free to check back for:
 
-- ✅ Data Cleaning & EDA Projects
-- ✅ SQL + Dashboard Case Studies
-- ✅ Streamlit App Deployments
+- ✅ Data Cleaning & EDA Projects  
+- ✅ SQL + Dashboard Case Studies  
+- ✅ Streamlit App Deployments  
 - ✅ Machine Learning Capstones
 
 ---
